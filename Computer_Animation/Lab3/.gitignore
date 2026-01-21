@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/build_2025
+/build
+/out/build/x64-Debug
+/irgLab/build
+/submit/ciklus3/0036538250C.zip
